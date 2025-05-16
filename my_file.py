@@ -8,3 +8,9 @@ def Hi Here():
 
 def Hello World():
     print (Hi Here!)
+    
+
+def main():
+    print (Hello World!)
+    print (Hi Here!)    
+    
