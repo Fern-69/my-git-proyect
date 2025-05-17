@@ -1,6 +1,6 @@
 # My Git Project
 
->My code for the Git project
+>My scary marge conflict code
 
 ## I´m a in the feature branch
 
