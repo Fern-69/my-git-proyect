@@ -11,8 +11,4 @@ def Hello World():
     
 
 def main():
-    print (Hello World!)
-    print (Hi Here!)    
-    
-return main()
-# This is a comment
+    print (Update README for merge conflict demo)    
