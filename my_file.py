@@ -11,6 +11,4 @@ def Hello World():
     
 
 def main():
-    print (My local change)
-
-    
+    print (Update README for merge conflict demo)    
