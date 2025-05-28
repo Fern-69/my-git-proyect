@@ -6,3 +6,6 @@
 
 Another line
 ## I´m a in the main branch stash
+
+>Parece que no me ha cogido los cambios realizados antes.
+>Volvemos a intentarlo.
