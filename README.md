@@ -11,5 +11,5 @@ Another line
 
 >Crear una rama y modficar un archivo existente en la rama principal(main), subir los cambios y la nueva rama a GitHub.
 
->Modificación para rama-secundaria_A
-
+>Modificación para rama-secundaria-A
+>Modificación para rama-terciaria-A
