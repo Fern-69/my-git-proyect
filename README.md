@@ -13,5 +13,5 @@ Another line
 
 
 >Modificación en main para crear otra versión, despues de crear tres ramas anteriores.
->Modificación para rama-secundaria_A
-
+>Modificación para rama-secundaria-A
+>Modificación para rama-terciaria-A
