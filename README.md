@@ -7,5 +7,4 @@
 Another line
 ## I´m a in the main branch stash
 
->Parece que no me ha cogido los cambios realizados antes.
->Volvemos a intentarlo.
+>Primero vamos a modificar un archivo existente en la rama princiapl (main), y subir los cambios a GitHub.
