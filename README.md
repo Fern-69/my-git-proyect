@@ -9,7 +9,7 @@ Another line
 
 >Primero vamos a modificar un archivo existente en la rama princiapl (main), y subir los cambios a GitHub.
 
->Crear una rama y modficar un archivo existente en la rama principal(main), subir los cambios y la nuev arama a GitHub.
+>Crear una rama y modficar un archivo existente en la rama principal(main), subir los cambios y la nueva rama a GitHub.
 
 
 
