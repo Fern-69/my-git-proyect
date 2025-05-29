@@ -7,8 +7,4 @@
 Another line
 ## I´m a in the main branch stash
 
-1. Modificación archivo commit_A
-2. Modificación archivo commit_B y creación rama COMMIT-A
-3. Crear rama COMMIT-B y modificación archivo commit_C
-4. Crear rama COMMIT-C y modificación archivo commit_D (sin merge)
-5. Crear rama COMMIT-D y modificación archivo commit_E (sin merge)
+1. crear rama COMMITA y modificar archivo README.md
