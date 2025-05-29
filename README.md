@@ -10,3 +10,4 @@ Another line
 1. Modificación archivo commit_A
 2. Modificación archivo commit_B y creación rama COMMIT-A
 3. Crear rama COMMIT-B y modificación archivo commit_C
+4. Crear rama COMMIT-C y modificación archivo commit_D (sin merge)
