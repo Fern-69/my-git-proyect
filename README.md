@@ -7,9 +7,5 @@
 Another line
 ## I´m a in the main branch stash
 
-1. crear rama COMMITA y modificar archivo README.md
-2. crear rama COMMITB y modificar archivo README.md
-3. crear rama COMMITC y modificar archivo README.md (Hacer rebase)
-4. crera rama COMMITD y modificar archivo README.md (Hacer rebase)
-5. crear rama COMMITE, modificar archivo README.md, y README.md desde main (Hacer rebase)
 
+>>>>>>> parent of 1ece833 (rama COMMITC rebase))
