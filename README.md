@@ -7,5 +7,5 @@
 Another line
 ## I´m a in the main branch stash
 
->Modificación archivo commit_A
-
+1. Modificación archivo commit_A
+2. Modificación archivo commit_B y creación rama COMMIT-A
