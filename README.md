@@ -8,4 +8,6 @@ Another line
 ## I´m a in the main branch stash
 
 
->>>>>>> parent of 1ece833 (rama COMMITC rebase))
+1. crear rama COMMITA y modificar archivo README.md
+2. crear rama COMMITB y modificar archivo README.md
+
