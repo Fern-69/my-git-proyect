@@ -13,4 +13,3 @@ Another line
 4. crera rama COMMITD y modificar archivo README.md (Hacer rebase)
 5. crear rama COMMITE, modificar archivo README.md, y README.md desde main (Hacer rebase)
 
-6. Moidifcación README.md en rama main para hacer rebase
