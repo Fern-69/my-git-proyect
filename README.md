@@ -7,7 +7,9 @@
 Another line
 ## I´m a in the main branch stash
 
+>Primero vamos a modificar un archivo existente en la rama princiapl (main), y subir los cambios a GitHub.
 
-1. crear rama COMMITA y modificar archivo README.md
-2. crear rama COMMITB y modificar archivo README.md
+>Crear una rama y modficar un archivo existente en la rama principal(main), subir los cambios y la nueva rama a GitHub.
 
+
+>Modificación en main para crear otra versión, despues de crear tres ramas anteriores.
