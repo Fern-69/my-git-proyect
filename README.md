@@ -14,12 +14,3 @@ Another line
 >Creada rama project-two, y modificado archivo README.md / Por segunda vez
 >Modifico para probar "stash" en la rama main
 
-
-
-<<<<<<< Updated upstream
-=======
->Creada rama project-conflicto, y modificado archivo README.md/ en línea de project-four
-
-
->Vamos a probar con el segundo stash
->>>>>>> Stashed changes
