@@ -9,8 +9,11 @@ Another line
 
 >Creada rama project-one, y modificado archivo README.md/ modifico para pull desde cmd
 
+
+
 >Creada rama project-two, y modificado archivo README.md / Por segunda vez
+>Modifico para probar "stash" en la rama main
 
->Creada rama project-three, y modificado archivo README.md / y modificado en GitHub
-
->Creada rama project-conflicto, y modificado archivo README.md/ en línea de project-four
+>Nueva modificación para probar stash
+>Modificación para revertir
+>Modifiacación segundo cambio para vertir el anterior
