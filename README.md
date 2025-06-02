@@ -15,3 +15,4 @@ Another line
 >Modifico para probar "stash" en la rama main
 
 >Nueva modificación para probar stash
+>Modificación para revertir
