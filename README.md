@@ -7,7 +7,7 @@
 Another line
 ## I´m a in the main branch stash
 
->Creada rama project-one, y modificado archivo README.md
+>Creada rama project-one, y modificado archivo README.md/ modifico para pull desde cmd
 
 >Creada rama project-two, y modificado archivo README.md / Por segunda vez
 
