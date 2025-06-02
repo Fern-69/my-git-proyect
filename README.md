@@ -16,3 +16,10 @@ Another line
 
 
 
+<<<<<<< Updated upstream
+=======
+>Creada rama project-conflicto, y modificado archivo README.md/ en línea de project-four
+
+
+>Vamos a probar con el segundo stash
+>>>>>>> Stashed changes
