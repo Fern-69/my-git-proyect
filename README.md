@@ -12,10 +12,13 @@ Another line
 
 
 
+>Creada rama-C y moficado README.md para rebase
 
 
 
+>Creada rama-D y modificado README.md para rebase
 
-
+=======
+>>>>>>> 09505e7 (Modif REadme en main para rebase)
 
 >Modifico README.md en main para rebase
