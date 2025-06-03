@@ -8,6 +8,18 @@ Another line
 ## I´m a in the main branch stash
 
 >Creada rama-A
+>
+>
+>
+>
+>Creada rama-D y modificado README.md para rebase
+>
+>Creada rama-D y modificado README.md para rebase
+>
+>
+>
+>Modifico README.md en main para rebase
+
 
 
 
@@ -18,3 +30,5 @@ Another line
 
 >Creada rama-D y modificado README.md para rebase
 
+=======
+>>>>>>> 09505e7 (Modif REadme en main para rebase)
